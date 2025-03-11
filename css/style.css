@@ -2,3 +2,22 @@ td, th {
 	border: 1px solid;
   }
   
+#names {
+	font-weight: bold;
+	font-size: 30px;
+	font-family: cursive;
+	color: teal;
+	text-decoration: underline;
+}
+
+img {
+	width: 200px;
+	height: 200px;
+}
+
+#planets {
+	float: left;
+	display: block;
+	background-color: lightblue;
+}
+  
